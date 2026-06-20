@@ -6,8 +6,7 @@ Open it and run all cells to write the figures to disk.
 
 ## Environment
 
-Tested with Python 3.9.12 and `numpy` 1.26.4, `torch` 1.12.1, `matplotlib` 3.9.2. The notebooks
-run on CPU and are deterministic (`seed=0`).
+Tested with Python 3.9.12 and `numpy` 1.26.4, `torch` 1.12.1, `matplotlib` 3.9.2.
 
 ## Notebooks
 
